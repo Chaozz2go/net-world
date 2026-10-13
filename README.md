@@ -2,6 +2,10 @@
 
 Ein statischer Konzept-Prototyp für GitHub Pages. Die Netzwerkgeräte und Terminalbefehle sind vollständig simuliert; der Prototyp verbindet sich nicht mit echten Systemen und enthält noch keinen persistenten Multiplayer-Server.
 
+## Live-Vorschau
+
+https://chaozz2go.github.io/net-world/
+
 ## Lokal ansehen
 
 `index.html` direkt im Browser öffnen.
